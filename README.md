@@ -1,2 +1,3 @@
-# Список вещей в путешествие
-Учебный проект на React.
+# Travel packing list
+Project for learning React
+
